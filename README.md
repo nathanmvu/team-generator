@@ -1,4 +1,4 @@
-# team-generator
+# Team Generator
 A software engineering team generator command line application
 
 ## Description
