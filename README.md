@@ -1,4 +1,4 @@
-# team-generator
+# Team Generator
 A software engineering team generator command line application
 
 ## Description
@@ -13,7 +13,7 @@ This program is a command line application to generate a website containing info
 * [License](#license)
 
 ## Getting Started
-* [Github Repository](https://github.com/nathanmvu/password-generator)
+* [Github Repository](https://github.com/nathanmvu/team-generator)
 * [Usage Demo Video](https://drive.google.com/file/d/14rFG7i_9Mj7pS_ROhEpMp-Ojkt3oGMvo/view)
 
 ## Installation
